@@ -1,1 +1,7 @@
 .idea
+*.iml
+
+# Ignore target material
+
+target/PanfuRegister.swf
+target/Reg_process_interface_CS3.swf
